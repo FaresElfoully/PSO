@@ -27,7 +27,7 @@ python main.py
 ```
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Fares Kareem License - see the LICENSE file for details.
 
 ## Contact
 For any inquiries, please contact Fares Kareem Fouly.
